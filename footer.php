@@ -65,7 +65,8 @@
 								<!-- Copyright -->
 									<div id="copyright">
 										<ul class="links">
-											<li>&copy; Untitled. All rights reserved.</li><li>Design: Sylwia</a></li>
+											<li>&copy; Untitled. All rights reserved.</li>
+											<li>Design: <a href="http://html5up.net"> HTML5 UP</a></li>
 										</ul>
 										<a id="back2Top" title="Back to top" href="#"></a>
 									</div>
