@@ -13,4 +13,4 @@ and [`promocje.php`](https://github.com/sylwiavv/pizzeria-wp/blob/master/page-te
 
 ## Other features
 
-* Galery
+* Gallery
